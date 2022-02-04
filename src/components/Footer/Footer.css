@@ -1,0 +1,11 @@
+.footer {
+  background: #000;
+  color: aliceblue;
+  font-family: 'Fruktur', cursive;
+}
+
+.services {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
